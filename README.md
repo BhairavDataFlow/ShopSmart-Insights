@@ -60,3 +60,10 @@ This project is licensed under the MIT License.
 ## Acknowledgments
 
 - Thanks to the open-source community for providing the tools and libraries used in this project.
+- ## Contact
+
+For questions or collaboration, please contact:
+
+- **Name**: Arvind Kumar Pandey
+- **Email**: akp071997@gmail.com
+- **GitHub**: [Your GitHub Profile URL]
